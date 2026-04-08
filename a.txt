@@ -14,3 +14,4 @@ This is the first file
   (,,/ (,,/     
   
   here is a new line
+THIS IS NOW EDITED FOR C6
